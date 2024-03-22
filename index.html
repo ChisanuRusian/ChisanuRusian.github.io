@@ -7,19 +7,19 @@
       transition: all 0.5s;
     }
     body {
-      background-color: black;
+      background-color: #000;
       color: #0ff;
     }
     #container {
       position: absolute;
       left: 10%;
       top: 10%;
-      width: auto;
+      width: 30vw;
       min-width: 30vw;
       border: 1px solid #0ff;
       padding: 10px;
       border-radius: 10px;
-      background-color: black;
+      background-color: #000;
       overflow: hidden;
       transition: width 0.5s;
     }
@@ -38,14 +38,20 @@
       margin-bottom: 10px;
       font-weight: normal;
       color: #0ff;
-      text-shadow: -1px 0px 5px #0ff, 1px 0px 10px #0ff, 2px 0px 15px #0ff;
+      text-shadow: 
+        -1px 0px 5px #0ff, 
+        1px 0px 10px #0ff, 
+        2px 0px 15px #0ff;
     }
     li.selected,
     li:hover {
       transform: translateX(20px) scale(1.1);
       font-weight: bold;
       color: red;
-      text-shadow: -1px 0px 5px red, 1px 0px 10px red, 2px 0px 15px red;
+      text-shadow: 
+        -1px 0px 5px red, 
+        1px 0px 10px red, 
+        2px 0px 15px red;
     }
   </style>
 </head>
@@ -53,22 +59,38 @@
   <div id="container">
     <ul>
       <li onclick="selectMinifyJson(this)">Minify Json</li>
-      <li onclick="selectMe(this)">Item 2</li>
+      <li onclick="selectMinifyXml(this)">Minify Xml</li>
       <li onclick="selectMe(this)">Item 3</li>
     </ul>
   </div>
-  <textarea id="codeView" rows="40" cols="80" style="position: absolute; left: 5%; top: calc(10% + 20vh); width: 90vw; background-color: #141414; color: #fff; padding: 25px; border-radius: 8px; font-size: 1.1em;"></textarea>
+  <textarea id="codeView" 
+            rows="40" 
+            cols="80" 
+            style="
+              position: absolute; 
+              left: 5%; 
+              top: calc(10% + 20vh); 
+              width: 90vw; 
+              background-color: #141414; 
+              color: #fff; 
+              padding: 25px; 
+              border-radius: 8px; 
+              font-size: 1.1em;
+            "
+  ></textarea>
   <script src="./scr/checkJson.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.6.0/jszip.min.js">  </script>
-
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.6.0/jszip.min.js"></script>
+  <script src="https://raw.githack.com/vkiryukhin/vkBeautify/master/vkbeautify.js"></script>
   <script>
     function selectMinifyJson(elem) {
-        doActions();
+      doMinifyJson();
+    }
+
+    function selectMinifyXml(elem) {
+      doMinifyXml();
     }
   </script>
 </body>
 </html>
-
-
 
 
