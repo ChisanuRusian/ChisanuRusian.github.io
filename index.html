@@ -21,7 +21,19 @@
     </li>
     <li>
       <label id="getSubPackageLabel" style="font-weight:bold; text-decoration:underline;"
-        onclick="selectGetSubPackage(this)">Get Sub Package</label>
+        onclick="selectGetSubPackage(this)">Get Sub Package: Choose file config ["subpackage.json"]</label>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <label for="Prefix" style="vertical-align:bottom;">Prefix</label>
+      <input type="text" id="decodeBuildPrefix" name="Prefix" required minlength="4" style="width:50vw;"
+        value="new_game">
+    </li>
+    <li>
+      <label id="decodeBuildNote" style="font-weight:bold; text-decoration:underline;"
+        onclick="decodeBuildNote(this)">Sellect Folder</Select></label>
     </li>
   </ul>
 
@@ -49,21 +61,50 @@
     }
 
     function selectGetSubPackage(elem) {
+
       const host = document.getElementById('host').value;
       const labelProgress = document.getElementById('getSubPackageLabel');
-      labelProgress.textContent = 'Get Sub Package';
+
+      labelProgress.textContent = 'Get Sub Package: Choose file config ["subpackage.json"]';
 
       (async () => {
         const data = await openOneFile();
         const urls = await fetchSubPackage(host, data);
-        const files = await downloadFilesFromUrls(urls, labelProgress);
+
+        let successCount = 0;
+        let failCount = 0;
+        let total = urls.length;
+
+        labelProgress.textContent = 'Get Sub Package: Start Download...';
+        const callbackProgress = ({ current, total, url, pathSave }) => {
+          labelProgress.textContent = 'Get Sub Package: Download...' + (current + 1) + '/' + total + '...' + pathSave;
+        }
+
+        const callbackSuccess = ({ current, total, url, pathSave }) => {
+          successCount++;
+        }
+
+        const callbackError = ({ current, total, url, pathSave }) => {
+          failCount++;
+        }
+        const files = await downloadFilesFromUrls(urls, callbackProgress, callbackSuccess, callbackError);
 
         labelProgress.textContent = 'Get Sub Package: Zipping...';
+        const callbackProgressZip = (metaData) => {
+        const progressPercent = parseInt(metaData.percent);
+        labelProgress.textContent = `Get Sub Package: Zipping: ${progressPercent}%`;
+        }
+        await doZip("subpackage", files, callbackProgressZip);
 
-        await doZip("subpackage", files);
-        labelProgress.textContent = 'Get Sub Package: Done...';
+        labelProgress.textContent = 'Get Sub Package: Done...' + successCount + '/' + total + ' Success, ' + failCount + '/' + total + ' Fail';
       })();
-      
+
+    }
+  
+    function decodeBuildNote(elem) {
+      (async () => {
+        
+      })();
     }
   </script>
 </body>

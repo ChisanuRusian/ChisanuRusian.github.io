@@ -5,7 +5,7 @@ async function minifyAllJson(paths) {
     const [, ...folderParts] = path.split('/');
     const root = folderParts.pop();
     const fileName = path.split('/').pop();
-    const minifiedJson = JSON.stringify(json, null, 2);
+    const minifiedJson = JSON.stringify(json);
     const minifiedFile = new File(
       [minifiedJson],
       [...folderParts, fileName].join('/'),
