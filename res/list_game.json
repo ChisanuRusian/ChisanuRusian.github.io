@@ -1,938 +1,674 @@
 [
-    {
-        "gi": "",
-        "as": "hilo",
-        "iu": "https://bc-img.vercel.app/game/image/table/hilo.png",
-        "gt": 1,
-        "on": 9998,
-        "fn": "HILO"
-    },
-    {
-        "gi": "",
-        "as": "baccarat",
-        "iu": "https://bc-img.vercel.app/game/image/table/baccarat.png",
-        "gt": 1,
-        "on": 9997,
-        "fn": "BACCARAT"
-    },
-    {
-        "gi": "",
-        "as": "baccarat-multiplayer",
-        "iu": "https://bc-img.vercel.app/game/image/table/baccarat-multiplayer.png",
-        "gt": 1,
-        "on": 9996,
-        "fn": "BACCARAT MULTIPLAYER"
-    },
-    {
-        "gi": "",
-        "as": "blackjack",
-        "iu": "https://bc-img.vercel.app/game/image/table/black-jack.png",
-        "gt": 1,
-        "on": 9995,
-        "fn": "BLACK JACK"
-    },
-    {
-        "gi": "",
-        "as": "cave-of-plunder",
-        "iu": "https://bc-img.vercel.app/game/image/table/cave-of-plunder.png",
-        "gt": 1,
-        "on": 9994,
-        "fn": "CAVE OF PLUNDER"
-    },
-    {
-        "gi": "",
-        "as": "classic-dice",
-        "iu": "https://bc-img.vercel.app/game/image/table/classic-dice.png",
-        "gt": 1,
-        "on": 9993,
-        "fn": "CLASSIC DICE"
-    },
-    {
-        "gi": "",
-        "as": "coin-flip",
-        "iu": "https://bc-img.vercel.app/game/image/table/coin-flip.png",
-        "gt": 1,
-        "on": 9992,
-        "fn": "COIN FLIP"
-    },
-    {
-        "gi": "",
-        "as": "crash",
-        "iu": "https://bc-img.vercel.app/game/image/table/crash.png",
-        "gt": 1,
-        "on": 9991,
-        "fn": "CRASH"
-    },
-    {
-        "gi": "",
-        "as": "double",
-        "iu": "https://bc-img.vercel.app/game/image/table/double.png",
-        "gt": 1,
-        "on": 9990,
-        "fn": "DOUBLE"
-    },
-    {
-        "gi": "",
-        "as": "fast-parity",
-        "iu": "https://bc-img.vercel.app/game/image/table/fast-parity.png",
-        "gt": 1,
-        "on": 9989,
-        "fn": "FAST PARITY"
-    },
-    {
-        "gi": "",
-        "as": "hash-dice",
-        "iu": "https://bc-img.vercel.app/game/image/table/hash-dice.png",
-        "gt": 1,
-        "on": 9988,
-        "fn": "HASH DICE"
-    },
-    {
-        "gi": "",
-        "as": "keno",
-        "iu": "https://bc-img.vercel.app/game/image/table/keno.png",
-        "gt": 1,
-        "on": 9987,
-        "fn": "KENO"
-    },
-    {
-        "gi": "",
-        "as": "keno-multiplayer",
-        "iu": "https://bc-img.vercel.app/game/image/table/keno-multiplayer.png",
-        "gt": 1,
-        "on": 9986,
-        "fn": "KENO MULTIPLAYER"
-    },
-    {
-        "gi": "",
-        "as": "limbo",
-        "iu": "https://bc-img.vercel.app/game/image/table/limbo.png",
-        "gt": 1,
-        "on": 9985,
-        "fn": "LIMBO"
-    },
-    {
-        "gi": "",
-        "as": "mine",
-        "iu": "https://bc-img.vercel.app/game/image/table/mine.png",
-        "gt": 1,
-        "on": 9984,
-        "fn": "MINE"
-    },
-    {
-        "gi": "",
-        "as": "oriental-beauties",
-        "iu": "https://bc-img.vercel.app/game/image/table/oriental-beauties.png",
-        "gt": 1,
-        "on": 9983,
-        "fn": "ORIENTAL BEAUTIES"
-    },
-    {
-        "gi": "",
-        "as": "plinko",
-        "iu": "https://bc-img.vercel.app/game/image/table/plinko.png",
-        "gt": 1,
-        "on": 9982,
-        "fn": "PLINKO"
-    },
-    {
-        "gi": "",
-        "as": "ring-of-fortune",
-        "iu": "https://bc-img.vercel.app/game/image/table/ring-of-fortune.png",
-        "gt": 1,
-        "on": 9981,
-        "fn": "RING OF FORTUNE"
-    },
-    {
-        "gi": "",
-        "as": "roulette",
-        "iu": "https://bc-img.vercel.app/game/image/table/roulette.png",
-        "gt": 1,
-        "on": 9980,
-        "fn": "ROULETTE"
-    },
-    {
-        "gi": "",
-        "as": "saviour-sword",
-        "iu": "https://bc-img.vercel.app/game/image/table/saviour-sword.png",
-        "gt": 1,
-        "on": 9979,
-        "fn": "SAVIOUR SWORD"
-    },
-    {
-        "gi": "",
-        "as": "tower-legend",
-        "iu": "https://bc-img.vercel.app/game/image/table/tower-legend.png",
-        "gt": 1,
-        "on": 9978,
-        "fn": "TOWER LEGEND"
-    },
-    {
-        "gi": "",
-        "as": "twist",
-        "iu": "https://bc-img.vercel.app/game/image/table/twist.png",
-        "gt": 1,
-        "on": 9977,
-        "fn": "TWIST"
-    },
-    {
-        "gi": "",
-        "as": "ultimate-dice",
-        "iu": "https://bc-img.vercel.app/game/image/table/ultimate-dice.png",
-        "gt": 1,
-        "on": 9976,
-        "fn": "ULTIMATE DICE"
-    },
-    {
-        "gi": "",
-        "as": "video-poker",
-        "iu": "https://bc-img.vercel.app/game/image/table/video-poker.png",
-        "gt": 1,
-        "on": 9975,
-        "fn": "VIDEO POKER"
-    },
-    {
-        "gi": "",
-        "as": "wheel",
-        "iu": "https://bc-img.vercel.app/game/image/table/wheel.png",
-        "gt": 1,
-        "on": 9974,
-        "fn": "WHEEL"
-    },
-    {
-        "gi": 504,
-        "as": "agent-777",
-        "iu": "https://bc-img.vercel.app/game/image/slot/agent-777.png",
-        "gt": 3,
-        "on": 9998,
-        "fn": "Agent 777"
-    },
-    {
-        "gi": 504,
-        "as": "alibaba",
-        "iu": "https://bc-img.vercel.app/game/image/slot/alibaba.png",
-        "gt": 3,
-        "on": 9997,
-        "fn": "Alibaba"
-    },
-    {
-        "gi": 504,
-        "as": "arena-fighter",
-        "iu": "https://bc-img.vercel.app/game/image/slot/arena-fighter.png",
-        "gt": 3,
-        "on": 9996,
-        "fn": "Arena Fighter"
-    },
-    {
-        "gi": 504,
-        "as": "aztec-priestess",
-        "iu": "https://bc-img.vercel.app/game/image/slot/aztec-priestess.png",
-        "gt": 3,
-        "on": 9995,
-        "fn": "Aztec Priestess"
-    },
-    {
-        "gi": 504,
-        "as": "bakery-bonanza",
-        "iu": "https://bc-img.vercel.app/game/image/slot/bakery-bonanza.png",
-        "gt": 3,
-        "on": 9994,
-        "fn": "Bakery Bonanza"
-    },
-    {
-        "gi": 504,
-        "as": "bikini-paradise",
-        "iu": "https://bc-img.vercel.app/game/image/slot/bikini-paradise.png",
-        "gt": 3,
-        "on": 9993,
-        "fn": "Bikini Paradise"
-    },
-    {
-        "gi": 504,
-        "as": "bonus-hunter",
-        "iu": "https://bc-img.vercel.app/game/image/slot/bonus-hunter.png",
-        "gt": 3,
-        "on": 9992,
-        "fn": "Bonus Hunter"
-    },
-    {
-        "gi": 504,
-        "as": "book-of-gold",
-        "iu": "https://bc-img.vercel.app/game/image/slot/book-of-gold.png",
-        "gt": 3,
-        "on": 9991,
-        "fn": "Book of Gold"
-    },
-    {
-        "gi": 504,
-        "as": "boxing-champion",
-        "iu": "https://bc-img.vercel.app/game/image/slot/boxing-champion.png",
-        "gt": 3,
-        "on": 9990,
-        "fn": "Boxing Champion"
-    },
-    {
-        "gi": 504,
-        "as": "bubble-beauty",
-        "iu": "https://bc-img.vercel.app/game/image/slot/bubble-beauty.png",
-        "gt": 3,
-        "on": 9989,
-        "fn": "Bubble Beauty"
-    },
-    {
-        "gi": 504,
-        "as": "caishen-coming",
-        "iu": "https://bc-img.vercel.app/game/image/slot/caishen-coming.png",
-        "gt": 3,
-        "on": 9988,
-        "fn": "Caishen Coming"
-    },
-    {
-        "gi": 504,
-        "as": "caishen-wins",
-        "iu": "https://bc-img.vercel.app/game/image/slot/caishen-wins.png",
-        "gt": 3,
-        "on": 9987,
-        "fn": "Caishen Wins"
-    },
-    {
-        "gi": 504,
-        "as": "candy-burst",
-        "iu": "https://bc-img.vercel.app/game/image/slot/candy-burst.png",
-        "gt": 3,
-        "on": 9986,
-        "fn": "Candy Burst"
-    },
-    {
-        "gi": 504,
-        "as": "caribbean-queen",
-        "iu": "https://bc-img.vercel.app/game/image/slot/caribbean-queen.png",
-        "gt": 3,
-        "on": 9985,
-        "fn": "Caribbean Queen"
-    },
-    {
-        "gi": 504,
-        "as": "chin-shi-huang",
-        "iu": "https://bc-img.vercel.app/game/image/slot/chin-shi-huang.png",
-        "gt": 3,
-        "on": 9984,
-        "fn": "Chin Shi Huang"
-    },
-    {
-        "gi": 504,
-        "as": "crypto-gold",
-        "iu": "https://bc-img.vercel.app/game/image/slot/crypto-gold.png",
-        "gt": 3,
-        "on": 9983,
-        "fn": "Crypto Gold"
-    },
-    {
-        "gi": 504,
-        "as": "daruma-fortune",
-        "iu": "https://bc-img.vercel.app/game/image/slot/daruma-fortune.png",
-        "gt": 3,
-        "on": 9982,
-        "fn": "Daruma Fortune"
-    },
-    {
-        "gi": 504,
-        "as": "dreams-of-macau",
-        "iu": "https://bc-img.vercel.app/game/image/slot/dreams-of-macau.png",
-        "gt": 3,
-        "on": 9981,
-        "fn": "Dreams of Macau"
-    },
-    {
-        "gi": 504,
-        "as": "elf-bingo",
-        "iu": "https://bc-img.vercel.app/game/image/slot/elf-bingo.png",
-        "gt": 3,
-        "on": 9980,
-        "fn": "Elf Bingo"
-    },
-    {
-        "gi": 504,
-        "as": "euro",
-        "iu": "https://bc-img.vercel.app/game/image/slot/euro.png",
-        "gt": 3,
-        "on": 9979,
-        "fn": "Euro"
-    },
-    {
-        "gi": 504,
-        "as": "fengshen",
-        "iu": "https://bc-img.vercel.app/game/image/slot/femgshen.png",
-        "gt": 3,
-        "on": 9978,
-        "fn": "Feng Shen"
-    },
-    {
-        "gi": 504,
-        "as": "fortune-tiger",
-        "iu": "https://bc-img.vercel.app/game/image/slot/fortune-tiger.png",
-        "gt": 3,
-        "on": 9977,
-        "fn": "Fortune Tiger"
-    },
-    {
-        "gi": 504,
-        "as": "three-wishes",
-        "iu": "https://bc-img.vercel.app/game/image/slot/genie's-3-wishes.png",
-        "gt": 3,
-        "on": 9976,
-        "fn": "Genie's 3 Wishes"
-    },
-    {
-        "gi": 504,
-        "as": "gladiator-slot",
-        "iu": "https://bc-img.vercel.app/game/image/slot/gladiator-slot.png",
-        "gt": 3,
-        "on": 9975,
-        "fn": "Gladiator Slot"
-    },
-    {
-        "gi": 504,
-        "as": "golden-bank",
-        "iu": "https://bc-img.vercel.app/game/image/slot/golden-bank.png",
-        "gt": 3,
-        "on": 9974,
-        "fn": "Golden Bank"
-    },
-    {
-        "gi": 504,
-        "as": "golden-joker-elite",
-        "iu": "https://bc-img.vercel.app/game/image/slot/golden-joker-elite.png",
-        "gt": 3,
-        "on": 9973,
-        "fn": "Golden Joker Elite"
-    },
-    {
-        "gi": 504,
-        "as": "golden-panther",
-        "iu": "https://bc-img.vercel.app/game/image/slot/golden-panther.png",
-        "gt": 3,
-        "on": 9972,
-        "fn": "Golden Panther"
-    },
-    {
-        "gi": 504,
-        "as": "halloween",
-        "iu": "https://bc-img.vercel.app/game/image/slot/halloween.png",
-        "gt": 3,
-        "on": 9971,
-        "fn": "Halloween"
-    },
-    {
-        "gi": 504,
-        "as": "hawaii-beauty",
-        "iu": "https://bc-img.vercel.app/game/image/slot/hawaii-beauty.png",
-        "gt": 3,
-        "on": 9970,
-        "fn": "Hawaii Beauty"
-    },
-    {
-        "gi": 504,
-        "as": "huge-buffalo",
-        "iu": "https://bc-img.vercel.app/game/image/slot/huge-buffalo.png",
-        "gt": 3,
-        "on": 9969,
-        "fn": "Huge Buffalo"
-    },
-    {
-        "gi": 504,
-        "as": "huge-kong",
-        "iu": "https://bc-img.vercel.app/game/image/slot/huge-kong.png",
-        "gt": 3,
-        "on": 9968,
-        "fn": "Huge Kong"
-    },
-    {
-        "gi": 504,
-        "as": "inca-1",
-        "iu": "https://bc-img.vercel.app/game/image/slot/inca-1.png",
-        "gt": 3,
-        "on": 9967,
-        "fn": "Mystery Of Inca"
-    },
-    {
-        "gi": 504,
-        "as": "inca-2",
-        "iu": "https://bc-img.vercel.app/game/image/slot/inca-2.png",
-        "gt": 3,
-        "on": 9966,
-        "fn": "Mystery Of Inca 2"
-    },
-    {
-        "gi": 504,
-        "as": "infinity-ace",
-        "iu": "https://bc-img.vercel.app/game/image/slot/infinity-ace.png",
-        "gt": 3,
-        "on": 9965,
-        "fn": "Infinity Ace"
-    },
-    {
-        "gi": 504,
-        "as": "justice-bao",
-        "iu": "https://bc-img.vercel.app/game/image/slot/justice-bao.png",
-        "gt": 3,
-        "on": 9964,
-        "fn": "Justice Bao"
-    },
-    {
-        "gi": 504,
-        "as": "khmer-new-year",
-        "iu": "https://bc-img.vercel.app/game/image/slot/khmer-new-year.png",
-        "gt": 3,
-        "on": 9963,
-        "fn": "Khmer New Year"
-    },
-    {
-        "gi": 504,
-        "as": "king-arthur",
-        "iu": "https://bc-img.vercel.app/game/image/slot/king-arthur.png",
-        "gt": 3,
-        "on": 9962,
-        "fn": "King Arthur"
-    },
-    {
-        "gi": 504,
-        "as": "kun-khmer-champion",
-        "iu": "https://bc-img.vercel.app/game/image/slot/kun-khmer-champion.png",
-        "gt": 3,
-        "on": 9961,
-        "fn": "Kun Khmer Champion"
-    },
-    {
-        "gi": 504,
-        "as": "lava-eruption",
-        "iu": "https://bc-img.vercel.app/game/image/slot/lava-eruption.png",
-        "gt": 3,
-        "on": 9960,
-        "fn": "Lava Eruption"
-    },
-    {
-        "gi": 504,
-        "as": "legend-cat",
-        "iu": "https://bc-img.vercel.app/game/image/slot/legend-cat.png",
-        "gt": 3,
-        "on": 9959,
-        "fn": "Legend Cat"
-    },
-    {
-        "gi": 504,
-        "as": "lions",
-        "iu": "https://bc-img.vercel.app/game/image/slot/lions.png",
-        "gt": 3,
-        "on": 9958,
-        "fn": "Lions"
-    },
-    {
-        "gi": 504,
-        "as": "lost-empire",
-        "iu": "https://bc-img.vercel.app/game/image/slot/lost-empire.png",
-        "gt": 3,
-        "on": 9957,
-        "fn": "Lost Empire"
-    },
-    {
-        "gi": 504,
-        "as": "lucky-piggy",
-        "iu": "https://bc-img.vercel.app/game/image/slot/lucky-piggy.png",
-        "gt": 3,
-        "on": 9956,
-        "fn": "Lucky Piggy"
-    },
-    {
-        "gi": 504,
-        "as": "lucky-rabbit",
-        "iu": "https://bc-img.vercel.app/game/image/slot/lucky-rabbit.png",
-        "gt": 3,
-        "on": 9955,
-        "fn": "Lucky Rabbit"
-    },
-    {
-        "gi": 504,
-        "as": "mahjong-ways-2",
-        "iu": "https://bc-img.vercel.app/game/image/slot/mahjong-ways-2.png",
-        "gt": 3,
-        "on": 9954,
-        "fn": "Mahjong Ways 2"
-    },
-    {
-        "gi": 504,
-        "as": "majestic-treasures",
-        "iu": "https://bc-img.vercel.app/game/image/slot/majestic-treasures.png",
-        "gt": 3,
-        "on": 9953,
-        "fn": "Majestic Treasures"
-    },
-    {
-        "gi": 504,
-        "as": "maniac-gold",
-        "iu": "https://bc-img.vercel.app/game/image/slot/maniac-gold.png",
-        "gt": 3,
-        "on": 9952,
-        "fn": "Maniac Gold"
-    },
-    {
-        "gi": 504,
-        "as": "master-tiger",
-        "iu": "https://bc-img.vercel.app/game/image/slot/master-tiger.png",
-        "gt": 3,
-        "on": 9951,
-        "fn": "Master Tiger"
-    },
-    {
-        "gi": 504,
-        "as": "mayan-empire",
-        "iu": "https://bc-img.vercel.app/game/image/slot/mayan-empire.png",
-        "gt": 3,
-        "on": 9950,
-        "fn": "Mayan Empire"
-    },
-    {
-        "gi": 504,
-        "as": "merge-dragon",
-        "iu": "https://bc-img.vercel.app/game/image/slot/merge-dragon.png",
-        "gt": 3,
-        "on": 9949,
-        "fn": "Merge Dragon"
-    },
-    {
-        "gi": 504,
-        "as": "monkey-king",
-        "iu": "https://bc-img.vercel.app/game/image/slot/monkey-king.png",
-        "gt": 3,
-        "on": 9948,
-        "fn": "Monkey King"
-    },
-    {
-        "gi": 504,
-        "as": "mystic-fortune-deluxe",
-        "iu": "https://bc-img.vercel.app/game/image/slot/mystic-fortune-deluxe.png",
-        "gt": 3,
-        "on": 9947,
-        "fn": "Mystic Fortune Deluxe"
-    },
-    {
-        "gi": 504,
-        "as": "mystic-raiders",
-        "iu": "https://bc-img.vercel.app/game/image/slot/mystic-raiders.png",
-        "gt": 3,
-        "on": 9946,
-        "fn": "Mystic Raiders"
-    },
-    {
-        "gi": 504,
-        "as": "night-city",
-        "iu": "https://bc-img.vercel.app/game/image/slot/night-city.png",
-        "gt": 3,
-        "on": 9945,
-        "fn": "Night City"
-    },
-    {
-        "gi": 504,
-        "as": "ninja-samurai",
-        "iu": "https://bc-img.vercel.app/game/image/slot/ninja-samurai.png",
-        "gt": 3,
-        "on": 9944,
-        "fn": "Ninja Samurai"
-    },
-    {
-        "gi": 504,
-        "as": "pharaoh-treasure",
-        "iu": "https://bc-img.vercel.app/game/image/slot/pharaoh-treasure.png",
-        "gt": 3,
-        "on": 9943,
-        "fn": "Pharaoh Treasure"
-    },
-    {
-        "gi": 504,
-        "as": "pub-street",
-        "iu": "https://bc-img.vercel.app/game/image/slot/pub-street.png",
-        "gt": 3,
-        "on": 9942,
-        "fn": "Pub Street"
-    },
-    {
-        "gi": 504,
-        "as": "rock-beauty",
-        "iu": "https://bc-img.vercel.app/game/image/slot/rock-beauty.png",
-        "gt": 3,
-        "on": 9941,
-        "fn": "Rock Beauty"
-    },
-    {
-        "gi": 504,
-        "as": "samba",
-        "iu": "https://bc-img.vercel.app/game/image/slot/samba.png",
-        "gt": 3,
-        "on": 9940,
-        "fn": "Samba"
-    },
-    {
-        "gi": 504,
-        "as": "shanghai-bund",
-        "iu": "https://bc-img.vercel.app/game/image/slot/shanghai-bund.png",
-        "gt": 3,
-        "on": 9939,
-        "fn": "Shanghai Bund"
-    },
-    {
-        "gi": 504,
-        "as": "supreme-ganesha",
-        "iu": "https://bc-img.vercel.app/game/image/slot/supreme-ganesha.png",
-        "gt": 3,
-        "on": 9938,
-        "fn": "Supreme Ganesha"
-    },
-    {
-        "gi": 504,
-        "as": "sweet-land",
-        "iu": "https://bc-img.vercel.app/game/image/slot/sweet-land.png",
-        "gt": 3,
-        "on": 9937,
-        "fn": "Sweet Land"
-    },
-    {
-        "gi": 504,
-        "as": "thunder-god",
-        "iu": "https://bc-img.vercel.app/game/image/slot/thunder-god.png",
-        "gt": 3,
-        "on": 9936,
-        "fn": "Thunder God"
-    },
-    {
-        "gi": 504,
-        "as": "treasure-hood",
-        "iu": "https://bc-img.vercel.app/game/image/slot/treasure-hood.png",
-        "gt": 3,
-        "on": 9935,
-        "fn": "Treasure Hood"
-    },
-    {
-        "gi": 504,
-        "as": "treasures-of-aztec",
-        "iu": "https://bc-img.vercel.app/game/image/slot/treasures-of-aztec.png",
-        "gt": 3,
-        "on": 9934,
-        "fn": "Treasures Of Aztec"
-    },
-    {
-        "gi": 504,
-        "as": "trial-of-phoenix",
-        "iu": "https://bc-img.vercel.app/game/image/slot/trial-of-phoenix.png",
-        "gt": 3,
-        "on": 9933,
-        "fn": "Trial of Phoenix"
-    },
-    {
-        "gi": 504,
-        "as": "triple-coin-treasures",
-        "iu": "https://bc-img.vercel.app/game/image/slot/triple-coin-treasures.png",
-        "gt": 3,
-        "on": 9932,
-        "fn": "Triple Coin Treasures"
-    },
-    {
-        "gi": 504,
-        "as": "ultimate-poker-slot",
-        "iu": "https://bc-img.vercel.app/game/image/slot/ultimate-poker-slot.png",
-        "gt": 3,
-        "on": 9931,
-        "fn": "Ultimate Poker Slot"
-    },
-    {
-        "gi": 504,
-        "as": "ultra-777",
-        "iu": "https://bc-img.vercel.app/game/image/slot/ultra-777.png",
-        "gt": 3,
-        "on": 9930,
-        "fn": "Ultra 777"
-    },
-    {
-        "gi": 504,
-        "as": "undead-carnival",
-        "iu": "https://bc-img.vercel.app/game/image/slot/undead-carnival.png",
-        "gt": 3,
-        "on": 9929,
-        "fn": "Undead Carnival"
-    },
-    {
-        "gi": 504,
-        "as": "ways-of-the-qilin",
-        "iu": "https://bc-img.vercel.app/game/image/slot/ways-of-the-qilin.png",
-        "gt": 3,
-        "on": 9928,
-        "fn": "Ways Of The Qilin"
-    },
-    {
-        "gi": 504,
-        "as": "wealth-coming",
-        "iu": "https://bc-img.vercel.app/game/image/slot/wealth-coming.png",
-        "gt": 3,
-        "on": 9927,
-        "fn": "Wealth Coming"
-    },
-    {
-        "gi": 504,
-        "as": "wild-ace",
-        "iu": "https://bc-img.vercel.app/game/image/slot/wild-ace.png",
-        "gt": 3,
-        "on": 9926,
-        "fn": "Wild Ace"
-    },
-    {
-        "gi": 504,
-        "as": "wild-bandito",
-        "iu": "https://bc-img.vercel.app/game/image/slot/wild-bandito.png",
-        "gt": 3,
-        "on": 9925,
-        "fn": "Wild Bandito"
-    },
-    {
-        "gi": 504,
-        "as": "wild-west",
-        "iu": "https://bc-img.vercel.app/game/image/slot/wild-west.png",
-        "gt": 3,
-        "on": 9924,
-        "fn": "Wild West"
-    },
-    {
-        "gi": 504,
-        "as": "witches-night",
-        "iu": "https://bc-img.vercel.app/game/image/slot/witches-night.png",
-        "gt": 3,
-        "on": 9923,
-        "fn": "Witches Night"
-    },
-    {
-        "gi": 504,
-        "as": "wonder-land",
-        "iu": "https://bc-img.vercel.app/game/image/slot/wonder-land.png",
-        "gt": 3,
-        "on": 9922,
-        "fn": "Wonder Land"
-    },
-    {
-        "gi": 504,
-        "as": "zeus",
-        "iu": "https://bc-img.vercel.app/game/image/slot/zeus.png",
-        "gt": 3,
-        "on": 9921,
-        "fn": "Zeus"
-    },
-    {
-        "gi": "",
-        "as": "roulette",
-        "iu": "https://bc-img.vercel.app/game/image/table/roulette.png",
-        "gt": 2,
-        "on": 9998,
-        "fn": "ROULETTE"
-    },
-    {
-        "gi": "",
-        "as": "baccarat",
-        "iu": "https://bc-img.vercel.app/game/image/table/baccarat.png",
-        "gt": 2,
-        "on": 9997,
-        "fn": "BACCARAT"
-    },
-    {
-        "gi": "",
-        "as": "baccarat-multiplayer",
-        "iu": "https://bc-img.vercel.app/game/image/table/baccarat-multiplayer.png",
-        "gt": 2,
-        "on": 9996,
-        "fn": "BACCARAT MULTIPLAYER"
-    },
-    {
-        "gi": "",
-        "as": "blackjack",
-        "iu": "https://bc-img.vercel.app/game/image/table/black-jack.png",
-        "gt": 2,
-        "on": 9995,
-        "fn": "BLACK JACK"
-    },
-    {
-        "gi": "",
-        "as": "cave-of-plunder",
-        "iu": "https://bc-img.vercel.app/game/image/table/cave-of-plunder.png",
-        "gt": 2,
-        "on": 9994,
-        "fn": "CAVE OF PLUNDER"
-    },
-    {
-        "gi": "",
-        "as": "fast-parity",
-        "iu": "https://bc-img.vercel.app/game/image/table/fast-parity.png",
-        "gt": 2,
-        "on": 9993,
-        "fn": "FAST PARITY"
-    },
-    {
-        "gi": "",
-        "as": "video-poker",
-        "iu": "https://bc-img.vercel.app/game/image/table/video-poker.png",
-        "gt": 2,
-        "on": 9992,
-        "fn": "VIDEO POKER"
-    },
-    {
-        "gi": "",
-        "as": "crazy-cannon",
-        "iu": "https://bc-img.vercel.app/game/image/shoot/crazy-cannon.png",
-        "gt": 5,
-        "on": 9998,
-        "fn": "CRAZY CANNON"
-    },
-    {
-        "gi": 640,
-        "as": "deep-sea",
-        "iu": "https://bc-img.vercel.app/game/image/shoot/deep-sea.png",
-        "gt": 5,
-        "on": 9997,
-        "fn": "DEEP SEA"
-    },
-    {
-        "gi": 508,
-        "as": "dino",
-        "iu": "https://bc-img.vercel.app/game/image/shoot/dino-king.png",
-        "gt": 5,
-        "on": 9996,
-        "fn": "DINO KING"
-    },
-    {
-        "gi": 514,
-        "as": "dino2",
-        "iu": "https://bc-img.vercel.app/game/image/shoot/dino-king-2.png",
-        "gt": 5,
-        "on": 9995,
-        "fn": "DINO KING 2"
-    },
-    {
-        "gi": 504,
-        "as": "happy-fishing-legend",
-        "iu": "https://bc-img.vercel.app/game/image/shoot/happy-fishing-legend.png",
-        "gt": 5,
-        "on": 9994,
-        "fn": "HAPPY FISHING LEGEND"
-    },
-    {
-        "gi": 470,
-        "as": "hunter-ranger",
-        "iu": "https://bc-img.vercel.app/game/image/shoot/hunter-ranger.png",
-        "gt": 5,
-        "on": 9993,
-        "fn": "HUNTER RANGER"
-    },
-    {
-        "gi": 483,
-        "as": "phoenix-awakening",
-        "iu": "https://bc-img.vercel.app/game/image/shoot/phoenix-awakening.png",
-        "gt": 5,
-        "on": 9992,
-        "fn": "PHOENIX AWAKEING"
-    }
+  {
+    "gi": 504,
+    "as": "agent-777",
+    "iu": "https://bc-img.vercel.app/game/image/slot/agent-777.png",
+    "gt": 3,
+    "on": 9998,
+    "fn": "Agent 777"
+  },
+  {
+    "gi": 504,
+    "as": "alibaba",
+    "iu": "https://bc-img.vercel.app/game/image/slot/alibaba.png",
+    "gt": 3,
+    "on": 9997,
+    "fn": "Alibaba"
+  },
+  {
+    "gi": 504,
+    "as": "arena-fighter",
+    "iu": "https://bc-img.vercel.app/game/image/slot/arena-fighter.png",
+    "gt": 3,
+    "on": 9996,
+    "fn": "Arena Fighter"
+  },
+  {
+    "gi": 504,
+    "as": "aztec-priestess",
+    "iu": "https://bc-img.vercel.app/game/image/slot/aztec-priestess.png",
+    "gt": 3,
+    "on": 9995,
+    "fn": "Aztec Priestess"
+  },
+  {
+    "gi": 504,
+    "as": "bakery-bonanza",
+    "iu": "https://bc-img.vercel.app/game/image/slot/bakery-bonanza.png",
+    "gt": 3,
+    "on": 9994,
+    "fn": "Bakery Bonanza"
+  },
+  {
+    "gi": 504,
+    "as": "bikini-paradise",
+    "iu": "https://bc-img.vercel.app/game/image/slot/bikini-paradise.png",
+    "gt": 3,
+    "on": 9993,
+    "fn": "Bikini Paradise"
+  },
+  {
+    "gi": 504,
+    "as": "bonus-hunter",
+    "iu": "https://bc-img.vercel.app/game/image/slot/bonus-hunter.png",
+    "gt": 3,
+    "on": 9992,
+    "fn": "Bonus Hunter"
+  },
+  {
+    "gi": 504,
+    "as": "book-of-gold",
+    "iu": "https://bc-img.vercel.app/game/image/slot/book-of-gold.png",
+    "gt": 3,
+    "on": 9991,
+    "fn": "Book of Gold"
+  },
+  {
+    "gi": 504,
+    "as": "boxing-champion",
+    "iu": "https://bc-img.vercel.app/game/image/slot/boxing-champion.png",
+    "gt": 3,
+    "on": 9990,
+    "fn": "Boxing Champion"
+  },
+  {
+    "gi": 504,
+    "as": "bubble-beauty",
+    "iu": "https://bc-img.vercel.app/game/image/slot/bubble-beauty.png",
+    "gt": 3,
+    "on": 9989,
+    "fn": "Bubble Beauty"
+  },
+  {
+    "gi": 504,
+    "as": "caishen-coming",
+    "iu": "https://bc-img.vercel.app/game/image/slot/caishen-coming.png",
+    "gt": 3,
+    "on": 9988,
+    "fn": "Caishen Coming"
+  },
+  {
+    "gi": 504,
+    "as": "caishen-wins",
+    "iu": "https://bc-img.vercel.app/game/image/slot/caishen-wins.png",
+    "gt": 3,
+    "on": 9987,
+    "fn": "Caishen Wins"
+  },
+  {
+    "gi": 504,
+    "as": "candy-burst",
+    "iu": "https://bc-img.vercel.app/game/image/slot/candy-burst.png",
+    "gt": 3,
+    "on": 9986,
+    "fn": "Candy Burst"
+  },
+  {
+    "gi": 504,
+    "as": "caribbean-queen",
+    "iu": "https://bc-img.vercel.app/game/image/slot/caribbean-queen.png",
+    "gt": 3,
+    "on": 9985,
+    "fn": "Caribbean Queen"
+  },
+  {
+    "gi": 504,
+    "as": "chin-shi-huang",
+    "iu": "https://bc-img.vercel.app/game/image/slot/chin-shi-huang.png",
+    "gt": 3,
+    "on": 9984,
+    "fn": "Chin Shi Huang"
+  },
+  {
+    "gi": 504,
+    "as": "crypto-gold",
+    "iu": "https://bc-img.vercel.app/game/image/slot/crypto-gold.png",
+    "gt": 3,
+    "on": 9983,
+    "fn": "Crypto Gold"
+  },
+  {
+    "gi": 504,
+    "as": "daruma-fortune",
+    "iu": "https://bc-img.vercel.app/game/image/slot/daruma-fortune.png",
+    "gt": 3,
+    "on": 9982,
+    "fn": "Daruma Fortune"
+  },
+  {
+    "gi": 504,
+    "as": "dreams-of-macau",
+    "iu": "https://bc-img.vercel.app/game/image/slot/dreams-of-macau.png",
+    "gt": 3,
+    "on": 9981,
+    "fn": "Dreams of Macau"
+  },
+  {
+    "gi": 504,
+    "as": "elf-bingo",
+    "iu": "https://bc-img.vercel.app/game/image/slot/elf-bingo.png",
+    "gt": 3,
+    "on": 9980,
+    "fn": "Elf Bingo"
+  },
+  {
+    "gi": 504,
+    "as": "euro",
+    "iu": "https://bc-img.vercel.app/game/image/slot/euro.png",
+    "gt": 3,
+    "on": 9979,
+    "fn": "Euro"
+  },
+  {
+    "gi": 504,
+    "as": "fengshen",
+    "iu": "https://bc-img.vercel.app/game/image/slot/femgshen.png",
+    "gt": 3,
+    "on": 9978,
+    "fn": "Feng Shen"
+  },
+  {
+    "gi": 504,
+    "as": "fortune-tiger",
+    "iu": "https://bc-img.vercel.app/game/image/slot/fortune-tiger.png",
+    "gt": 3,
+    "on": 9977,
+    "fn": "Fortune Tiger"
+  },
+  {
+    "gi": 504,
+    "as": "three-wishes",
+    "iu": "https://bc-img.vercel.app/game/image/slot/genie's-3-wishes.png",
+    "gt": 3,
+    "on": 9976,
+    "fn": "Genie's 3 Wishes"
+  },
+  {
+    "gi": 504,
+    "as": "gladiator-slot",
+    "iu": "https://bc-img.vercel.app/game/image/slot/gladiator-slot.png",
+    "gt": 3,
+    "on": 9975,
+    "fn": "Gladiator Slot"
+  },
+  {
+    "gi": 504,
+    "as": "golden-bank",
+    "iu": "https://bc-img.vercel.app/game/image/slot/golden-bank.png",
+    "gt": 3,
+    "on": 9974,
+    "fn": "Golden Bank"
+  },
+  {
+    "gi": 504,
+    "as": "golden-joker-elite",
+    "iu": "https://bc-img.vercel.app/game/image/slot/golden-joker-elite.png",
+    "gt": 3,
+    "on": 9973,
+    "fn": "Golden Joker Elite"
+  },
+  {
+    "gi": 504,
+    "as": "golden-panther",
+    "iu": "https://bc-img.vercel.app/game/image/slot/golden-panther.png",
+    "gt": 3,
+    "on": 9972,
+    "fn": "Golden Panther"
+  },
+  {
+    "gi": 504,
+    "as": "halloween",
+    "iu": "https://bc-img.vercel.app/game/image/slot/halloween.png",
+    "gt": 3,
+    "on": 9971,
+    "fn": "Halloween"
+  },
+  {
+    "gi": 504,
+    "as": "hawaii-beauty",
+    "iu": "https://bc-img.vercel.app/game/image/slot/hawaii-beauty.png",
+    "gt": 3,
+    "on": 9970,
+    "fn": "Hawaii Beauty"
+  },
+  {
+    "gi": 504,
+    "as": "huge-buffalo",
+    "iu": "https://bc-img.vercel.app/game/image/slot/huge-buffalo.png",
+    "gt": 3,
+    "on": 9969,
+    "fn": "Huge Buffalo"
+  },
+  {
+    "gi": 504,
+    "as": "huge-kong",
+    "iu": "https://bc-img.vercel.app/game/image/slot/huge-kong.png",
+    "gt": 3,
+    "on": 9968,
+    "fn": "Huge Kong"
+  },
+  {
+    "gi": 504,
+    "as": "inca-1",
+    "iu": "https://bc-img.vercel.app/game/image/slot/inca-1.png",
+    "gt": 3,
+    "on": 9967,
+    "fn": "Mystery Of Inca"
+  },
+  {
+    "gi": 504,
+    "as": "inca-2",
+    "iu": "https://bc-img.vercel.app/game/image/slot/inca-2.png",
+    "gt": 3,
+    "on": 9966,
+    "fn": "Mystery Of Inca 2"
+  },
+  {
+    "gi": 504,
+    "as": "infinity-ace",
+    "iu": "https://bc-img.vercel.app/game/image/slot/infinity-ace.png",
+    "gt": 3,
+    "on": 9965,
+    "fn": "Infinity Ace"
+  },
+  {
+    "gi": 504,
+    "as": "justice-bao",
+    "iu": "https://bc-img.vercel.app/game/image/slot/justice-bao.png",
+    "gt": 3,
+    "on": 9964,
+    "fn": "Justice Bao"
+  },
+  {
+    "gi": 504,
+    "as": "khmer-new-year",
+    "iu": "https://bc-img.vercel.app/game/image/slot/khmer-new-year.png",
+    "gt": 3,
+    "on": 9963,
+    "fn": "Khmer New Year"
+  },
+  {
+    "gi": 504,
+    "as": "king-arthur",
+    "iu": "https://bc-img.vercel.app/game/image/slot/king-arthur.png",
+    "gt": 3,
+    "on": 9962,
+    "fn": "King Arthur"
+  },
+  {
+    "gi": 504,
+    "as": "kun-khmer-champion",
+    "iu": "https://bc-img.vercel.app/game/image/slot/kun-khmer-champion.png",
+    "gt": 3,
+    "on": 9961,
+    "fn": "Kun Khmer Champion"
+  },
+  {
+    "gi": 504,
+    "as": "lava-eruption",
+    "iu": "https://bc-img.vercel.app/game/image/slot/lava-eruption.png",
+    "gt": 3,
+    "on": 9960,
+    "fn": "Lava Eruption"
+  },
+  {
+    "gi": 504,
+    "as": "legend-cat",
+    "iu": "https://bc-img.vercel.app/game/image/slot/legend-cat.png",
+    "gt": 3,
+    "on": 9959,
+    "fn": "Legend Cat"
+  },
+  {
+    "gi": 504,
+    "as": "lions",
+    "iu": "https://bc-img.vercel.app/game/image/slot/lions.png",
+    "gt": 3,
+    "on": 9958,
+    "fn": "Lions"
+  },
+  {
+    "gi": 504,
+    "as": "lost-empire",
+    "iu": "https://bc-img.vercel.app/game/image/slot/lost-empire.png",
+    "gt": 3,
+    "on": 9957,
+    "fn": "Lost Empire"
+  },
+  {
+    "gi": 504,
+    "as": "lucky-piggy",
+    "iu": "https://bc-img.vercel.app/game/image/slot/lucky-piggy.png",
+    "gt": 3,
+    "on": 9956,
+    "fn": "Lucky Piggy"
+  },
+  {
+    "gi": 504,
+    "as": "lucky-rabbit",
+    "iu": "https://bc-img.vercel.app/game/image/slot/lucky-rabbit.png",
+    "gt": 3,
+    "on": 9955,
+    "fn": "Lucky Rabbit"
+  },
+  {
+    "gi": 504,
+    "as": "mahjong-ways-2",
+    "iu": "https://bc-img.vercel.app/game/image/slot/mahjong-ways-2.png",
+    "gt": 3,
+    "on": 9954,
+    "fn": "Mahjong Ways 2"
+  },
+  {
+    "gi": 504,
+    "as": "majestic-treasures",
+    "iu": "https://bc-img.vercel.app/game/image/slot/majestic-treasures.png",
+    "gt": 3,
+    "on": 9953,
+    "fn": "Majestic Treasures"
+  },
+  {
+    "gi": 504,
+    "as": "maniac-gold",
+    "iu": "https://bc-img.vercel.app/game/image/slot/maniac-gold.png",
+    "gt": 3,
+    "on": 9952,
+    "fn": "Maniac Gold"
+  },
+  {
+    "gi": 504,
+    "as": "master-tiger",
+    "iu": "https://bc-img.vercel.app/game/image/slot/master-tiger.png",
+    "gt": 3,
+    "on": 9951,
+    "fn": "Master Tiger"
+  },
+  {
+    "gi": 504,
+    "as": "mayan-empire",
+    "iu": "https://bc-img.vercel.app/game/image/slot/mayan-empire.png",
+    "gt": 3,
+    "on": 9950,
+    "fn": "Mayan Empire"
+  },
+  {
+    "gi": 504,
+    "as": "merge-dragon",
+    "iu": "https://bc-img.vercel.app/game/image/slot/merge-dragon.png",
+    "gt": 3,
+    "on": 9949,
+    "fn": "Merge Dragon"
+  },
+  {
+    "gi": 504,
+    "as": "monkey-king",
+    "iu": "https://bc-img.vercel.app/game/image/slot/monkey-king.png",
+    "gt": 3,
+    "on": 9948,
+    "fn": "Monkey King"
+  },
+  {
+    "gi": 504,
+    "as": "mystic-fortune-deluxe",
+    "iu": "https://bc-img.vercel.app/game/image/slot/mystic-fortune-deluxe.png",
+    "gt": 3,
+    "on": 9947,
+    "fn": "Mystic Fortune Deluxe"
+  },
+  {
+    "gi": 504,
+    "as": "mystic-raiders",
+    "iu": "https://bc-img.vercel.app/game/image/slot/mystic-raiders.png",
+    "gt": 3,
+    "on": 9946,
+    "fn": "Mystic Raiders"
+  },
+  {
+    "gi": 504,
+    "as": "night-city",
+    "iu": "https://bc-img.vercel.app/game/image/slot/night-city.png",
+    "gt": 3,
+    "on": 9945,
+    "fn": "Night City"
+  },
+  {
+    "gi": 504,
+    "as": "ninja-samurai",
+    "iu": "https://bc-img.vercel.app/game/image/slot/ninja-samurai.png",
+    "gt": 3,
+    "on": 9944,
+    "fn": "Ninja Samurai"
+  },
+  {
+    "gi": 504,
+    "as": "pharaoh-treasure",
+    "iu": "https://bc-img.vercel.app/game/image/slot/pharaoh-treasure.png",
+    "gt": 3,
+    "on": 9943,
+    "fn": "Pharaoh Treasure"
+  },
+  {
+    "gi": 504,
+    "as": "pub-street",
+    "iu": "https://bc-img.vercel.app/game/image/slot/pub-street.png",
+    "gt": 3,
+    "on": 9942,
+    "fn": "Pub Street"
+  },
+  {
+    "gi": 504,
+    "as": "rock-beauty",
+    "iu": "https://bc-img.vercel.app/game/image/slot/rock-beauty.png",
+    "gt": 3,
+    "on": 9941,
+    "fn": "Rock Beauty"
+  },
+  {
+    "gi": 504,
+    "as": "samba",
+    "iu": "https://bc-img.vercel.app/game/image/slot/samba.png",
+    "gt": 3,
+    "on": 9940,
+    "fn": "Samba"
+  },
+  {
+    "gi": 504,
+    "as": "shanghai-bund",
+    "iu": "https://bc-img.vercel.app/game/image/slot/shanghai-bund.png",
+    "gt": 3,
+    "on": 9939,
+    "fn": "Shanghai Bund"
+  },
+  {
+    "gi": 504,
+    "as": "supreme-ganesha",
+    "iu": "https://bc-img.vercel.app/game/image/slot/supreme-ganesha.png",
+    "gt": 3,
+    "on": 9938,
+    "fn": "Supreme Ganesha"
+  },
+  {
+    "gi": 504,
+    "as": "sweet-land",
+    "iu": "https://bc-img.vercel.app/game/image/slot/sweet-land.png",
+    "gt": 3,
+    "on": 9937,
+    "fn": "Sweet Land"
+  },
+  {
+    "gi": 504,
+    "as": "thunder-god",
+    "iu": "https://bc-img.vercel.app/game/image/slot/thunder-god.png",
+    "gt": 3,
+    "on": 9936,
+    "fn": "Thunder God"
+  },
+  {
+    "gi": 504,
+    "as": "treasure-hood",
+    "iu": "https://bc-img.vercel.app/game/image/slot/treasure-hood.png",
+    "gt": 3,
+    "on": 9935,
+    "fn": "Treasure Hood"
+  },
+  {
+    "gi": 504,
+    "as": "treasures-of-aztec",
+    "iu": "https://bc-img.vercel.app/game/image/slot/treasures-of-aztec.png",
+    "gt": 3,
+    "on": 9934,
+    "fn": "Treasures Of Aztec"
+  },
+  {
+    "gi": 504,
+    "as": "trial-of-phoenix",
+    "iu": "https://bc-img.vercel.app/game/image/slot/trial-of-phoenix.png",
+    "gt": 3,
+    "on": 9933,
+    "fn": "Trial of Phoenix"
+  },
+  {
+    "gi": 504,
+    "as": "triple-coin-treasures",
+    "iu": "https://bc-img.vercel.app/game/image/slot/triple-coin-treasures.png",
+    "gt": 3,
+    "on": 9932,
+    "fn": "Triple Coin Treasures"
+  },
+  {
+    "gi": 504,
+    "as": "ultimate-poker-slot",
+    "iu": "https://bc-img.vercel.app/game/image/slot/ultimate-poker-slot.png",
+    "gt": 3,
+    "on": 9931,
+    "fn": "Ultimate Poker Slot"
+  },
+  {
+    "gi": 504,
+    "as": "ultra-777",
+    "iu": "https://bc-img.vercel.app/game/image/slot/ultra-777.png",
+    "gt": 3,
+    "on": 9930,
+    "fn": "Ultra 777"
+  },
+  {
+    "gi": 504,
+    "as": "undead-carnival",
+    "iu": "https://bc-img.vercel.app/game/image/slot/undead-carnival.png",
+    "gt": 3,
+    "on": 9929,
+    "fn": "Undead Carnival"
+  },
+  {
+    "gi": 504,
+    "as": "ways-of-the-qilin",
+    "iu": "https://bc-img.vercel.app/game/image/slot/ways-of-the-qilin.png",
+    "gt": 3,
+    "on": 9928,
+    "fn": "Ways Of The Qilin"
+  },
+  {
+    "gi": 504,
+    "as": "wealth-coming",
+    "iu": "https://bc-img.vercel.app/game/image/slot/wealth-coming.png",
+    "gt": 3,
+    "on": 9927,
+    "fn": "Wealth Coming"
+  },
+  {
+    "gi": 504,
+    "as": "wild-ace",
+    "iu": "https://bc-img.vercel.app/game/image/slot/wild-ace.png",
+    "gt": 3,
+    "on": 9926,
+    "fn": "Wild Ace"
+  },
+  {
+    "gi": 504,
+    "as": "wild-bandito",
+    "iu": "https://bc-img.vercel.app/game/image/slot/wild-bandito.png",
+    "gt": 3,
+    "on": 9925,
+    "fn": "Wild Bandito"
+  },
+  {
+    "gi": 504,
+    "as": "wild-west",
+    "iu": "https://bc-img.vercel.app/game/image/slot/wild-west.png",
+    "gt": 3,
+    "on": 9924,
+    "fn": "Wild West"
+  },
+  {
+    "gi": 504,
+    "as": "witches-night",
+    "iu": "https://bc-img.vercel.app/game/image/slot/witches-night.png",
+    "gt": 3,
+    "on": 9923,
+    "fn": "Witches Night"
+  },
+  {
+    "gi": 504,
+    "as": "wonder-land",
+    "iu": "https://bc-img.vercel.app/game/image/slot/wonder-land.png",
+    "gt": 3,
+    "on": 9922,
+    "fn": "Wonder Land"
+  },
+  {
+    "gi": 504,
+    "as": "zeus",
+    "iu": "https://bc-img.vercel.app/game/image/slot/zeus.png",
+    "gt": 3,
+    "on": 9921,
+    "fn": "Zeus"
+  },
+  {
+    "gi": 640,
+    "as": "deep-sea",
+    "iu": "https://bc-img.vercel.app/game/image/shoot/deep-sea.png",
+    "gt": 5,
+    "on": 9998,
+    "fn": "DEEP SEA"
+  },
+  {
+    "gi": 508,
+    "as": "dino",
+    "iu": "https://bc-img.vercel.app/game/image/shoot/dino-king.png",
+    "gt": 5,
+    "on": 9997,
+    "fn": "DINO KING"
+  },
+  {
+    "gi": 514,
+    "as": "dino2",
+    "iu": "https://bc-img.vercel.app/game/image/shoot/dino-king-2.png",
+    "gt": 5,
+    "on": 9996,
+    "fn": "DINO KING 2"
+  },
+  {
+    "gi": 504,
+    "as": "happy-fishing-legend",
+    "iu": "https://bc-img.vercel.app/game/image/shoot/happy-fishing-legend.png",
+    "gt": 5,
+    "on": 9995,
+    "fn": "HAPPY FISHING LEGEND"
+  },
+  {
+    "gi": 470,
+    "as": "hunter-ranger",
+    "iu": "https://bc-img.vercel.app/game/image/shoot/hunter-ranger.png",
+    "gt": 5,
+    "on": 9994,
+    "fn": "HUNTER RANGER"
+  },
+  {
+    "gi": 483,
+    "as": "phoenix-awakening",
+    "iu": "https://bc-img.vercel.app/game/image/shoot/phoenix-awakening.png",
+    "gt": 5,
+    "on": 9993,
+    "fn": "PHOENIX AWAKEING"
+  }
 ]
